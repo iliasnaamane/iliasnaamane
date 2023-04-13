@@ -15,7 +15,5 @@ Below lists a few of the open source projects I have been involved in. A lot of 
 
 ### Contact
 
-I welcome any conversation! Please feel free to reach out to me using any of the below methods: 
-
 [Email](mailto:ilias.naamane1@gmail.com)
 
