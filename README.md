@@ -9,7 +9,7 @@ Below lists a few of the open source projects I have been implementing around Ku
 3.  [ArgoCD](https://github.com/argoproj/argo-cd)
 4.  [cert-manager](https://github.com/cert-manager/cert-manager)
 5.  [OPA](https://github.com/open-policy-agent/opa)
-6.  
+6.  [Prometheus](https://github.com/prometheus/prometheus)
 
 ### Blogs
 
