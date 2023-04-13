@@ -11,7 +11,7 @@ Below lists a few of the open source projects I have been implementing around Ku
 5.  [OPA](https://github.com/open-policy-agent/opa)
 6.  
 
-### Blog Posts
+### Blogs
 
 
 ### Contact
