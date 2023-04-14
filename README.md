@@ -1,4 +1,5 @@
-My name is Ilias Naamane. I am an architect DevSecOps engineer self-employed at [Malt](https://www.malt.fr/). Passion for Kubernetes tooling, GitOps and operators. I like entrepreneurship and freelancing.
+My name is Ilias Naamane. I am an architect DevSecOps engineer self-employed. Passion for Kubernetes tooling, GitOps and operators. I like entrepreneurship and freelancing.
+
 
 ### Open Source
 
